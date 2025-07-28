@@ -1,0 +1,25 @@
+# Morse Code Research
+
+## What is Morse Code? (2 marks)
+
+Morse code is a method used to encode text characters into sequences of dots (.) and dashes (-) that can be transmitted through sound, light, or visual signals. It allows messages to be sent over long distances without the need for complex equipment, and was especially useful in early telecommunication.
+
+It plays a crucial role in communication by enabling people to send messages in difficult or emergency situations, such as using a flashlight, tapping, or radio signals.
+
+## History and Origin of Morse Code (2 marks)
+
+Morse code was developed in the 1830s and 1840s by Samuel Morse and Alfred Vail. It was initially designed for use with the electric telegraph, a revolutionary invention that allowed messages to be transmitted over long distances using electric signals.
+
+The need for Morse code arose from the desire to send messages faster than physical mail and over greater distances. It evolved over time to support international use and was widely adopted by naval, military, and aviation sectors.
+
+## How Morse Code Works (2 marks)
+
+Each letter and number is represented by a unique sequence of dots (short signals) and dashes (long signals):
+
+- A = .-
+- B = -...
+- C = -.-.
+- 1 = .----
+- 2 = ..---
+
+These sequences are combined to form words and sentences. For example, "HELLO" in Morse code is:
